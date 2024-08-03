@@ -1,2 +1,2 @@
-# Fullcycle docker
+# Full Cycle docker
 docker run leonardocnc/fullcyle
